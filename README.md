@@ -11,7 +11,7 @@ Customer_Churn_Data.xlsx   -> Contains data
 This project is licensed under the GNU General Public License v3.0. Permissions of this strong copyleft license are conditioned on making available complete source code of licensed works and modifications, which include larger works using a licensed work, under the same license. Copyright and license notices must be preserved. Contributors provide an express grant of patent rights.
 
 ### Introduction about the project:
-Developed a churn prediction model. This model/python code can be used to perform churn prediction for any data.
+Developed a churn prediction model. This model/python code can be used to perform churn prediction for any data with very minimal modifications to the code.
 
 ### Details about sample dataset used: 
 -> Dataset was collected  from Kaggle. 
