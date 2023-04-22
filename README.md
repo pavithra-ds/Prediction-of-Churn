@@ -1,20 +1,20 @@
-# Prediction-of-Churn
+# Name: Prediction-of-Churn
 
 ------
-### Project Organization
+### Files Details
 
-Prediction of .ipynb   -> Contains python code
+Prediction of Churn.ipynb  -> Contains python code
 
 Customer_Churn_Data.xlsx   -> Contains data
 
 ### License: 
 This project is licensed under the GNU General Public License v3.0. Permissions of this strong copyleft license are conditioned on making available complete source code of licensed works and modifications, which include larger works using a licensed work, under the same license. Copyright and license notices must be preserved. Contributors provide an express grant of patent rights.
 
-### Introduction :
-Developed a churn prediction model
+### Introduction about the project:
+Developed a churn prediction model. This model/python code can be used to perform churn prediction for any data.
 
-### Dataset : 
--> Dataset was collected  from Kaggle. It contains data about DTH company
+### Details about sample dataset used: 
+-> Dataset was collected  from Kaggle. 
 -> There are total 18 columns in both the datasets namely Churn, Tenure, City_Tier, CC_Contacted_LY, Payment, Gender, Service Score, Account_user_count, account_segment, CC_Agent_Score, Marital_Status, rev_per_month, complain_ly, rev_growth_yoy, coupon_used_for_payment, Day_Since_CC_connect, cashback and login_device.  
 -> Datasets contains both numeric values, categorical values, missing values and special characters. 
 
