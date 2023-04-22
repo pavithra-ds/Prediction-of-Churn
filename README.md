@@ -15,7 +15,9 @@ Developed a churn prediction model. This model/python code can be used to perfor
 
 ### Details about sample dataset used: 
 -> Dataset was collected  from Kaggle. 
+
 -> There are total 18 columns in both the datasets namely Churn, Tenure, City_Tier, CC_Contacted_LY, Payment, Gender, Service Score, Account_user_count, account_segment, CC_Agent_Score, Marital_Status, rev_per_month, complain_ly, rev_growth_yoy, coupon_used_for_payment, Day_Since_CC_connect, cashback and login_device.  
+
 -> Datasets contains both numeric values, categorical values, missing values and special characters. 
 
 ### Tasks Performed :
